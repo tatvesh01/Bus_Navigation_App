@@ -1,3 +1,6 @@
+## **Bus Navigation App - GPS based track bus with realtime location.**
+
+
 This project is developed in Flutter/Dart for android and IOS Platform using google map.
 
 Key Features:
@@ -7,6 +10,6 @@ Key Features:
 - edit/delete routes
 - share routes using json file
 - give direction for reach every waypoints and destination
-- runing car on poliline with users real location
+- runing bus on poliline with users real location
 
 This project made for help to use of every one.
